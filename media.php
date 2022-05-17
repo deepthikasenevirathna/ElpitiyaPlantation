@@ -18,7 +18,7 @@
 </section>
 
 <section>   
-<div class="container mt-5 mb-5">
+<div class="container mt-5 mb-5 media">
         <div class="col-md-12">
             <div class="inner-titel-main mb-5" data-aos="fade-up">
                 <h3>News & Events</h3>
@@ -33,7 +33,7 @@
 					<div class="col-sm-7">
 						<div class="card-body">
 							<p class="card-title">Lorem Ipsum is simply dummy </p>
-							<p class="card-text about_p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+							<p class="card-text media_p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
 							<div class="date_set">
 								<i class="fa fa-calendar-days"></i> <span class="news_date">March 22</span> <br>
 								<a href="media_news.php"><button class="button11"><span>Read More </span></button></a>
@@ -50,7 +50,7 @@
 					<div class="col-sm-7">
 						<div class="card-body">
 							<p class="card-title">Lorem Ipsum is simply dummy </p>
-							<p class="card-text about_p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+							<p class="card-text media_p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
 							<div class="date_set">
 								<i class="fa fa-calendar-days"></i> <span class="news_date">March 22</span> <br>
 								<a href="media_news.php"><button class="button11"><span>Read More </span></button></a>
@@ -69,7 +69,7 @@
 					<div class="col-sm-7">
 						<div class="card-body">
 							<p class="card-title">Lorem Ipsum is simply dummy </p>
-							<p class="card-text about_p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+							<p class="card-text media_p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
 							<div class="date_set">
 								<i class="fa fa-calendar-days"></i> <span class="news_date">March 22</span> <br>
 								<a href="media_news.php"><button class="button11"><span>Read More </span></button></a>
@@ -86,7 +86,7 @@
 					<div class="col-sm-7">
 						<div class="card-body">
 							<p class="card-title">Lorem Ipsum is simply dummy </p>
-							<p class="card-text about_p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+							<p class="card-text media_p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
 							<div class="date_set">
 								<i class="fa fa-calendar-days"></i> <span class="news_date">March 22</span> <br>
 								<a href="media_news.php"><button class="button11"><span>Read More </span></button></a>
@@ -105,7 +105,7 @@
 					<div class="col-sm-7">
 						<div class="card-body">
 							<p class="card-title">Lorem Ipsum is simply dummy </p>
-							<p class="card-text about_p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+							<p class="card-text media_p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
 							<div class="date_set">
 								<i class="fa fa-calendar-days"></i> <span class="news_date">March 22</span> <br>
 								<a href="media_news.php"><button class="button11"><span>Read More </span></button></a>
@@ -122,7 +122,7 @@
 					<div class="col-sm-7">
 						<div class="card-body">
 							<p class="card-title">Lorem Ipsum is simply dummy </p>
-							<p class="card-text about_p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+							<p class="card-text media_p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
 							<div class="date_set">
 								<i class="fa fa-calendar-days"></i> <span class="news_date">March 22</span> <br>
 								<a href="media_news.php"><button class="button11"><span>Read More </span></button></a>
@@ -141,7 +141,7 @@
 					<div class="col-sm-7">
 						<div class="card-body">
 							<p class="card-title">Lorem Ipsum is simply dummy </p>
-							<p class="card-text about_p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+							<p class="card-text media_p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
 							<div class="date_set">
 								<i class="fa fa-calendar-days"></i> <span class="news_date">March 22</span> <br>
 								<a href="media_news.php"><button class="button11"><span>Read More </span></button></a>
@@ -158,7 +158,7 @@
 					<div class="col-sm-7">
 						<div class="card-body">
 							<p class="card-title">Lorem Ipsum is simply dummy </p>
-							<p class="card-text about_p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
+							<p class="card-text media_p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</p>
 							<div class="date_set">
 								<i class="fa fa-calendar-days"></i> <span class="news_date">March 22</span> <br>
 								<a href="media_news.php"><button class="button11"><span>Read More </span></button></a>

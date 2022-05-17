@@ -8,10 +8,10 @@
 			<div class="elixir-caret d-none d-lg-block"></div>
 			<div class="d-flex align-items-center h-100">
 				<div>
-					<div class="overflow-hidden">
-						<h4>Vision</h4>
+					<div>
+						<h4>Lorem Ipsum Dolar Mit 2021</h4>
 						<p class="mt-3 text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-						<p class="mt-3 text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						
 					</div>
 				</div>
 			</div>
@@ -26,8 +26,8 @@
 			<div class="elixir-caret d-none d-lg-block"></div>
 			<div class="d-flex align-items-center h-100">
 				<div>
-					<div class="overflow-hidden">
-						<h4>Mission</h4>
+					<div>
+						<h4>Lorem Ipsum Dolar Mit 2021</h4>
 						<p class="mt-3 text-justify">Elixir serves clients across the country and around the world as they navigate an increasingly complex tax landscape. Our tax professionals draw on deep experience and industry-specific knowledge to deliver clients the insights and innovation they need.</p>
 					</div>
 				</div>
