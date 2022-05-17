@@ -25,17 +25,11 @@
 	<!-- Magnific Popup core CSS file -->
 	<link rel="stylesheet" media="all" href="styles/magnific-popup.css" />
 
-	<!-- Map Box -->
-	<link href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.8.1/mapbox-gl.css" rel="stylesheet" />
-
 	<!-- Responsive css file -->
 	<link rel="stylesheet" type="text/css" href="styles/responsive.css">
 
 	<!-- Scripts -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-	
-	<!-- Map box -->
-	<script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.8.1/mapbox-gl.js"></script>
 	
 	<!-- Recaptcha -->
 	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
