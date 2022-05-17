@@ -1363,7 +1363,9 @@ h4.report_title {
 .team .card-title {
   font-weight: 600;
 }
-
+body{
+overflow-x: hidden;
+}
 
 /* .........Contact............... */
 .content1 {
